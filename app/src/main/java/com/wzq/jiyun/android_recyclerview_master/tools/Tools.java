@@ -5,6 +5,7 @@ import android.view.View;
 
 /**
  * author:Created by WangZhiQiang on 2017/4/30.
+ * 封装holder
  */
 
 public class Tools {
